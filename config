@@ -1,2 +1,5 @@
 theme = Catppuccin Mocha 
 macos-secure-input-indication = false
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
