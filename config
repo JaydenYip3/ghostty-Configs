@@ -3,3 +3,6 @@ macos-secure-input-indication = false
 font-feature = -calt
 font-feature = -liga
 font-feature = -dlig
+
+background-opacity = 0.8
+background-blur = true
